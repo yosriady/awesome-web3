@@ -13,6 +13,7 @@ Contributions are most welcome. Categories are also open to suggestions!
   - [Infrastructure 🏛️](#infrastructure-️)
   - [Analytics 🔍](#analytics-)
   - [Payroll 💰](#payroll-)
+  - [Monitoring 🔔](#monitoring-)
   - [Vesting 📈](#vesting-)
   - [Books 📚](#books-)
   - [Newsletter 📬](#newsletter-)
@@ -20,6 +21,8 @@ Contributions are most welcome. Categories are also open to suggestions!
   - [Movies 🍿](#movies-)
   - [Youtube 📺](#youtube-)
   - [Podcasts 🎙️](#podcasts-️)
+  - [Awesome Lists ✨](#awesome-lists-)
+
 
 ## Forms 📝 
 
@@ -57,6 +60,10 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Coinshift](https://coinshift.xyz/)
 - [Headquarters](https://hq.xyz/)
 - [Request.finance](https://www.request.finance/)
+
+## Monitoring 🔔
+- [Tenderly](https://tenderly.co)
+- [Blocknative](https://www.blocknative.com/)
 
 ## Vesting 📈
 
@@ -119,3 +126,11 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Zero Knowledge](https://www.zeroknowledge.fm/)
 - [The Defiant](https://thedefiant.io/podcast/)
 - [The Pomp Podcast](https://anthonypompliano.com/podcast/)
+
+## Awesome Lists ✨
+
+- [RPC Nodes](https://github.com/arddluma/awesome-list-rpc-nodes-providers)
+- [Farcaster Protocol](https://github.com/a16z/awesome-farcaster)
+- [Lens Protocol](https://github.com/0xJuancito/awesome-lens-protocol)
+- [Foundry](https://github.com/crisgarner/awesome-foundry)
+- [Zero Knowledge](https://github.com/ventali/awesome-zk)
