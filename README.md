@@ -54,6 +54,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Cookie3](https://www.cookie3.co/): Your gateway to MarketingFi.
 - [Dune](https://dune.com/): Query, visualize, share and export data across 15+ blockchains.
 - [Nansen](https://www.nansen.ai/): Onchain Analytics Platform designed for investors.
+- [Web3Trackers](https://web3trackers.com): Attribution platform for tracking crypto marketing ROI. Connects off-chain campaigns to on-chain conversions with wallet quality scoring.
 
 ## Payroll 💰
 
