@@ -47,6 +47,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Alchemy](https://www.alchemy.com/)
 - [QuickNode](https://www.quicknode.com/)
 - [Moralis](https://moralis.io/)
+- [agentwallet-sdk](https://github.com/up2itnow0822/agent-wallet-sdk): Non-custodial wallet SDK for AI agents. x402 payments, cross-chain bridges, token swaps.
 
 ## Analytics 🔍
 
