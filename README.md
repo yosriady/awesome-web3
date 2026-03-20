@@ -47,6 +47,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Alchemy](https://www.alchemy.com/)
 - [QuickNode](https://www.quicknode.com/)
 - [Moralis](https://moralis.io/)
+- [NanoStack](https://api.nano-labs.io) - Permissionless cross-chain execution API. 86 chains, 8-15 bps fees, no API key required.
 
 ## Analytics 🔍
 
