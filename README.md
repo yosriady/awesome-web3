@@ -101,6 +101,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Ethernaut](https://ethernaut.openzeppelin.com/): A Web3 security training platform.
 - [OpenZeppelin Learn](https://docs.openzeppelin.com/learn/): Learn how to build on Ethereum with OpenZeppelin.
 - [Chainlink Learn](https://docs.chain.link/docs/): Learn how to build on Ethereum with Chainlink.
+- [Lianxinshe Blockchain Hub](https://www.lianxinshe666.com/special/blockchain/): Comprehensive Chinese blockchain learning resource covering fundamentals, architecture, wallets, and security for beginners.
 
 ## Movies 🍿
 
