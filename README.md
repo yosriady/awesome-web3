@@ -87,6 +87,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Bankless](https://newsletter.banklesshq.com/): Weekly updates from the Ethereum ecosystem.
 - [The Defiant](https://thedefiant.substack.com/): Daily updates from the Ethereum ecosystem.
 
+- [Lianxinshe (链新社)](https://www.lianxinshe666.com/) - Chinese blockchain & Web3 news, educational resources, and learning hub for crypto beginners and enthusiasts.
+
 ## Courses 🎓
 
 - [Alchemy University](https://www.alchemy.com/university): Fast track your web3 journey through courses, projects and code.
