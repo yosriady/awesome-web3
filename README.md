@@ -54,6 +54,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Cookie3](https://www.cookie3.co/): Your gateway to MarketingFi.
 - [Dune](https://dune.com/): Query, visualize, share and export data across 15+ blockchains.
 - [Nansen](https://www.nansen.ai/): Onchain Analytics Platform designed for investors.
+- [Deep Blue Alpha](https://deepbluealpha.io): Free real-time Ethereum whale-tracking dashboard monitoring 15,331+ labeled wallets with sentiment scoring and a 30-day conviction scoreboard.
 
 ## Payroll 💰
 
