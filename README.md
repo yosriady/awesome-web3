@@ -47,6 +47,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Alchemy](https://www.alchemy.com/)
 - [QuickNode](https://www.quicknode.com/)
 - [Moralis](https://moralis.io/)
+- [RustChain](https://rustchain.org) - Proof-of-Antiquity blockchain that rewards vintage hardware mining (PowerPC G4, SPARC, 68K). Features AI agent economy with RTC tokens, 6-point hardware fingerprinting, and Ergo chain anchoring.
 
 ## Analytics 🔍
 
