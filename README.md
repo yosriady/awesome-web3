@@ -81,6 +81,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Address Checksum](https://formo.so/tools/address-checksum): Validate and convert Ethereum and EVM addresses to EIP-55 checksum format.
 - [Sign-In with Ethereum](https://formo.so/tools/sign-in-with-ethereum): Create and inspect EIP-4361 SIWE messages for wallet-based authentication.
 - [Calldata Decoder](https://formo.so/tools/calldata-decoder): Decode Ethereum and EVM transaction calldata into readable function calls, selectors, and parameters.
+- [Indiadex Swap Widget](https://indiadexswap.xyz/embed-widget): Free embeddable non-custodial cross-chain swap widget powered by LI.FI — add to any site with one script tag.
 
 ## Payroll 💰
 
