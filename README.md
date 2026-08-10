@@ -16,6 +16,7 @@ Contributions are most welcome. Categories are also open to suggestions!
   - [Developer Tools 🛠️](#developer-tools-️)
   - [Payroll 💰](#payroll-)
   - [Monitoring 🔔](#monitoring-)
+  - [Security 🔒](#security-)
   - [Vesting 📈](#vesting-)
   - [Books 📚](#books-)
   - [Guides 📖](#guides-)
@@ -89,8 +90,13 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Request.finance](https://www.request.finance/)
 
 ## Monitoring 🔔
+  - [Security 🔒](#security-)
 - [Tenderly](https://tenderly.co)
 - [Blocknative](https://www.blocknative.com/)
+
+## Security 🔒
+
+- [PolicyLayer](https://policylayer.com): Non-custodial spending controls for AI agents. Enforce spending limits, recipient whitelists, and kill switches on any EVM wallet.
 
 ## Vesting 📈
 
