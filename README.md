@@ -51,6 +51,10 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [QuickNode](https://www.quicknode.com/)
 - [Moralis](https://moralis.io/)
 
+## Integration Platforms 🚉
+
+- [Layer4](https://www.layer4.app)
+
 ## Analytics 🔍
 
 - [Formo](https://formo.so): Product analytics for web3 product and marketing teams.
