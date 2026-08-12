@@ -91,6 +91,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 ## Monitoring 🔔
 - [Tenderly](https://tenderly.co)
 - [Blocknative](https://www.blocknative.com/)
+- [n8n JSON Feed → Telegram](https://github.com/DeusAcc/n8n-json-feed-to-telegram) — polls a JSON endpoint and alerts on Telegram only for new entries passing a filter
 
 ## Vesting 📈
 
