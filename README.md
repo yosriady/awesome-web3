@@ -56,6 +56,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Formo](https://formo.so): Product analytics for web3 product and marketing teams.
 - [Cookie3](https://www.cookie3.co/): Your gateway to MarketingFi.
 - [Dune](https://dune.com/): Query, visualize, share and export data across 15+ blockchains.
+- [CoinVerum](https://coinverum.com/): Open-source Ethereum mainnet DEX analytics for on-chain prices, TVL, volume, trades, pools, and active addresses.
 - [Nansen](https://www.nansen.ai/): Onchain Analytics Platform designed for investors.
 
 ## Calculators 🧮
