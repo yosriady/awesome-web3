@@ -15,6 +15,7 @@ Contributions are most welcome. Categories are also open to suggestions!
   - [Calculators 🧮](#calculators-)
   - [Developer Tools 🛠️](#developer-tools-️)
   - [Payroll 💰](#payroll-)
+  - [Off-ramps](#off-ramps)
   - [Monitoring 🔔](#monitoring-)
   - [Vesting 📈](#vesting-)
   - [Books 📚](#books-)
@@ -87,6 +88,11 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Coinshift](https://coinshift.xyz/)
 - [Headquarters](https://hq.xyz/)
 - [Request.finance](https://www.request.finance/)
+
+## Off-ramps
+
+- [USDCtoFiat](https://usdctofiat.xyz): Non-custodial USDC-to-fiat on Base. Fast is 0 bps; Best is 10 bps. Revolut, Monzo, Chime, Zelle.
+- [@usdctofiat/offramp](https://www.npmjs.com/package/@usdctofiat/offramp): TypeScript SDK. One call: `cashout({ mode: "fast" | "best" })`.
 
 ## Monitoring 🔔
 - [Tenderly](https://tenderly.co)
