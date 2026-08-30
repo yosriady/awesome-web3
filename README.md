@@ -73,6 +73,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Crypto Campaign CTR Calculator](https://formo.so/tools/ctr-calculator): Measure click-through rate from impressions and clicks for campaigns.
 - [Crypto A/B Test Calculator](https://formo.so/tools/ab-test-calculator): Calculate statistical significance and uplift between two conversion rate variants.
 - [Crypto Traffic Value Calculator](https://formo.so/tools/traffic-value-calculator): Estimate paid-equivalent value of organic wallet traffic.
+- [RektCalc](https://rektcalc.com): Free liquidation price, position sizing, and leverage risk calculators for crypto futures traders.
 
 ## Developer Tools 🛠️
 
