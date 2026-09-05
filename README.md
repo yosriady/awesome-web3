@@ -81,6 +81,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Address Checksum](https://formo.so/tools/address-checksum): Validate and convert Ethereum and EVM addresses to EIP-55 checksum format.
 - [Sign-In with Ethereum](https://formo.so/tools/sign-in-with-ethereum): Create and inspect EIP-4361 SIWE messages for wallet-based authentication.
 - [Calldata Decoder](https://formo.so/tools/calldata-decoder): Decode Ethereum and EVM transaction calldata into readable function calls, selectors, and parameters.
+- [agent-audit](https://github.com/CrypLed/agent-audit): Scans AI coding agent (Claude Code, Codex CLI) session logs for leaked wallet seed phrases, private keys, and RPC provider keys that passed through a `.env` cat or debug print without ever touching a committed file. Zero dependencies, fully local, open source.
 
 ## Payroll 💰
 
