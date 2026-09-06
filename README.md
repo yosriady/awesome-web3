@@ -53,6 +53,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ## Analytics 🔍
 
+- [AYZO](https://ayzo.io/): Evidence-first on-chain intelligence for token, wallet, relationship, and funding research across 15+ blockchains.
 - [Formo](https://formo.so): Product analytics for web3 product and marketing teams.
 - [Cookie3](https://www.cookie3.co/): Your gateway to MarketingFi.
 - [Dune](https://dune.com/): Query, visualize, share and export data across 15+ blockchains.
