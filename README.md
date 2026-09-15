@@ -81,6 +81,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Address Checksum](https://formo.so/tools/address-checksum): Validate and convert Ethereum and EVM addresses to EIP-55 checksum format.
 - [Sign-In with Ethereum](https://formo.so/tools/sign-in-with-ethereum): Create and inspect EIP-4361 SIWE messages for wallet-based authentication.
 - [Calldata Decoder](https://formo.so/tools/calldata-decoder): Decode Ethereum and EVM transaction calldata into readable function calls, selectors, and parameters.
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner for Solana and EVM tokens: A+–F grades from on-chain checks, keyless REST API, hosted MCP server.
+
 
 ## Payroll 💰
 
