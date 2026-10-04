@@ -57,6 +57,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Cookie3](https://www.cookie3.co/): Your gateway to MarketingFi.
 - [Dune](https://dune.com/): Query, visualize, share and export data across 15+ blockchains.
 - [Nansen](https://www.nansen.ai/): Onchain Analytics Platform designed for investors.
+- [FerimanEdge](https://ferimanedge.com/): Rule-based BTC, ETH and BNB market-regime analytics with public BULL / SIDEWAYS / BEAR states and transparent published outcomes.
 
 ## Calculators 🧮
 
