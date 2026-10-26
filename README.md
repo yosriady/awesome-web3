@@ -76,6 +76,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ## Developer Tools 🛠️
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node): Local macOS CLI and stdio MCP payment tools for AI agents, with x402 offer inspection, owner-set limits and durable operation receipts.
 - [Builder Codes](https://formo.so/tools/builder-codes): Encode, decode, and validate ERC-8021 builder codes for onchain transaction attribution.
 - [Wei Converter](https://formo.so/tools/wei-converter): Convert between Wei, Gwei, and ETH without manual calculations.
 - [Address Checksum](https://formo.so/tools/address-checksum): Validate and convert Ethereum and EVM addresses to EIP-55 checksum format.
