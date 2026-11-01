@@ -172,3 +172,4 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Lens Protocol](https://github.com/0xJuancito/awesome-lens-protocol)
 - [Foundry](https://github.com/crisgarner/awesome-foundry)
 - [Zero Knowledge](https://github.com/ventali/awesome-zk)
+- [18btc](https://18btc.cc)
